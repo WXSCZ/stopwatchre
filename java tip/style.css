@@ -1,0 +1,11 @@
+@charset "utf-8";
+#results {
+    display:none;
+  }
+  
+  body {
+    background-image: url(R.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: lightblue;
+  }
